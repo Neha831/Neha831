@@ -1,6 +1,6 @@
  Hi, I'm Neha 👋
 
-🎓 B.E. Computer Engineering — CGPA 9.0  
+🎓 B.E. Computer Engineering 
 💼 Full Stack Developer | React.js · React Native · MERN Stack  
 📍 Pune, Maharashtra  
 
